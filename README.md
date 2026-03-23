@@ -2,12 +2,11 @@
 
 A cross-platform proxy client built with Flutter, powered by [Xray-core](https://github.com/XTLS/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box).
 
-<img width="884" height="639" alt="image" src="https://github.com/user-attachments/assets/008ca3d8-605e-4cbc-81ad-c5d3653ad452" />
+<img width="884" height="639" alt="image" src="https://github.com/user-attachments/assets/ce58cbe6-233a-4f13-bcdd-ab539831e2a8" />
 
-<img width="884" height="639" alt="image" src="https://github.com/user-attachments/assets/6fa2bc2b-38b4-4dd6-a880-560b17d8bca5" />
+<img width="884" height="639" alt="image" src="https://github.com/user-attachments/assets/3e105c42-37f4-453f-9b5a-bd18187c36a7" />
 
-<img width="884" height="639" alt="image" src="https://github.com/user-attachments/assets/ed3c53c7-98c7-4ebc-819a-d6d4ac96d1dd" />
-
+<img width="884" height="639" alt="image" src="https://github.com/user-attachments/assets/9f6ef3c3-b372-4983-8c06-16e5d36d5fd5" />
 
 ## Features
 
